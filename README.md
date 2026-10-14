@@ -1,4 +1,4 @@
-# 💜 HelpNow | Classificação Inteligente de Chamados com Machine Learning
+#  Classificação Inteligente de Chamados com Machine Learning
 
 ## 📌 Sobre o projeto
 
